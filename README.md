@@ -22,20 +22,4 @@ This project is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) appli
 - MongoDB installed locally or a cloud-based instance.
 
   
-Project Structure
-├── server
-│   ├── controllers
-│   ├── models
-│   ├── routes
-│   ├── config
-│   ├── .env
-│   └── server.js
-└── client
-    ├── public
-    ├── src
-    │   ├── components
-    │   ├── pages
-    │   ├── services
-    │   └── App.js
-    └── package.json
 
